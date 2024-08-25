@@ -25,6 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Ron Mathew's First CS193 Homework
+- Knowledgable and supportive TAs
+- Great class environment
+- Helpful and friendly students
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
